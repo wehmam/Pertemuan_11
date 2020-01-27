@@ -1,0 +1,23 @@
+body{
+    background-color: #dddddd;
+}
+.card-img-top{
+    height: 250px;
+}
+#cap{
+    margin-bottom: 150px;
+}
+.jumbotron{
+    background: url(img/eve.jpg);
+    background-attachment: fixed;
+    color: #000000;
+}
+li{
+    list-style: none;
+}
+.dropdown-item{
+    text-decoration: none;
+}
+.nav-link{
+    color:black;
+}
