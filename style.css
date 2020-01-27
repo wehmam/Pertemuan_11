@@ -21,3 +21,20 @@ li{
 .nav-link{
     color:black;
 }
+.carousel-item{
+    height: 600px;
+}
+.carousel-caption{
+    margin-bottom:200px;
+    color:orange;
+}
+.carousel-caption a:hover{
+    color: aqua;
+}
+.carousel-caption a{
+    color: orange ;
+    text-decoration: none;
+}
+.d-100{
+    background-attachment: fixed;
+}
